@@ -1,5 +1,10 @@
-## Group project for COMM3180 _Stories from data_ (Spring 2026)
+## Climate change and GenAI and Data Centers
 
-* Replace content in this file to act as the main index page for your project 
+### Group project for COMM3180 _Stories from data_ (Spring 2026)
 
-* Change the title and write an overview of your project and description of the content.
+* Matt and others
+
+#### Data
+
+* These are our datasets
+
